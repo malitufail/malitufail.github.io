@@ -105,6 +105,8 @@ Assigned to: ThemeForest
             createCircle('circles-6', 95, ["#202020", "#f26525"]);
             createCircle('circles-7', 80, ["#202020", "#ff8511"]);
             createCircle('circles-8', 80, ["#202020", "#00c8ff"]);
+            createCircle('circles-9', 90, ["#202020", "#00c8ff"]);
+            createCircle('circles-10', 90, ["#202020", "#00c8ff"]);
 
         });
         function createCircle(id, value, colors) {

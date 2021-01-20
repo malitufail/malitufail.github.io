@@ -1327,7 +1327,7 @@ input, textarea, select, button {
 }
 
 #circles-4 {
-    background-image: url(../images/content/progress_10.png);
+    background-image: url(../images/content/progress_5.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -1360,6 +1360,20 @@ input, textarea, select, button {
 
 #circles-8 {
     background-image: url(../images/content/progress_6.png);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#circles-9 {
+    background-image: url(../images/content/progress_1.png);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#circles-10 {
+    background-image: url(../images/content/progress_2.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
